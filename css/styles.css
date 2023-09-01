@@ -1,0 +1,17 @@
+/* This is the CSS for HTML HOT 1 */
+body {
+    background-color: #F3EBC9;
+    color: #2324E0;
+}
+
+.wrapper {
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+li { 
+    display: inline;
+}
+
+ 
